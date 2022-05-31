@@ -1,0 +1,22 @@
+# Merhaba (:coffee::computer::bulb::heart:)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=discord.gg%2Ftwerk)](https://github.com/Wapperx)
+
+```css
+#Wapper {
+    height  :       184;
+    width   :        76;
+    job     :   student;
+    sex     :       sex;
+  }
+```
+## :earth_asia: My Community
+
+## Javascirpt, Python, Windows, Visual Studio Code, Linux, Cmd
+
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wapperlx) 
+
+<img src="https://komarev.com/ghpvc/?username=Wapperx&label=Ziyaretçi%20Sayısı&color=red" alt="Wapper" /><br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/977799015733276733)](https://discord.com/users/977799015733276733)
+
+---
